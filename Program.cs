@@ -1,7 +1,7 @@
 ﻿using System;
 public class Program
 {
-    public static string[] tasks = new string[10];
+    public static string[] tasks = new string[];
     public static int taskCount = 0;
 // Method to calculate the average of an array
 public static void AddTask()
@@ -14,7 +14,7 @@ public static void AddTask()
 }
 public static void ListTasks()
 {
-    for (int i = 0; i < taskCount; i++)
+    for (int i = 0; i < length.tasks; i++)
     {
         Console.WriteLine(i + 1 + ". " + tasks[i]);
     }

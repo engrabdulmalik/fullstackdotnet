@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/abdul/fullstackdotnet/fullstackdotnet.csproj": {}
+    "/Users/malikabdulmalik/fullstackdotnet/fullstackdotnet.csproj": {}
   },
   "projects": {
-    "/home/abdul/fullstackdotnet/fullstackdotnet.csproj": {
+    "/Users/malikabdulmalik/fullstackdotnet/fullstackdotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abdul/fullstackdotnet/fullstackdotnet.csproj",
+        "projectUniqueName": "/Users/malikabdulmalik/fullstackdotnet/fullstackdotnet.csproj",
         "projectName": "fullstackdotnet",
-        "projectPath": "/home/abdul/fullstackdotnet/fullstackdotnet.csproj",
-        "packagesPath": "/home/abdul/.nuget/packages/",
-        "outputPath": "/home/abdul/fullstackdotnet/obj/",
+        "projectPath": "/Users/malikabdulmalik/fullstackdotnet/fullstackdotnet.csproj",
+        "packagesPath": "/Users/malikabdulmalik/.nuget/packages/",
+        "outputPath": "/Users/malikabdulmalik/fullstackdotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/abdul/.nuget/NuGet/NuGet.Config"
+          "/Users/malikabdulmalik/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
