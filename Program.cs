@@ -1,20 +1,21 @@
 ﻿using System;
+using System.Collections.Generic;
 public class Program
 {
-    public static string[] tasks = new string[];
+    public static List<string> tasks = new List<string>();
     public static int taskCount = 0;
 // Method to calculate the average of an array
 public static void AddTask()
 {
     Console.WriteLine("Please enter the task:");
     string task = Console.ReadLine();
-    tasks[taskCount] = task;
+    tasks.Add(task);
     taskCount++;
 
 }
 public static void ListTasks()
 {
-    for (int i = 0; i < length.tasks; i++)
+    for (int i = 0; i < taskCount; i++)
     {
         Console.WriteLine(i + 1 + ". " + tasks[i]);
     }
