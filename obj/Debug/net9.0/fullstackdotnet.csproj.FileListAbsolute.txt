@@ -1,0 +1,15 @@
+/Users/malikabdulmalik/fullstackdotnet/bin/Debug/net9.0/fullstackdotnet
+/Users/malikabdulmalik/fullstackdotnet/bin/Debug/net9.0/fullstackdotnet.deps.json
+/Users/malikabdulmalik/fullstackdotnet/bin/Debug/net9.0/fullstackdotnet.runtimeconfig.json
+/Users/malikabdulmalik/fullstackdotnet/bin/Debug/net9.0/fullstackdotnet.dll
+/Users/malikabdulmalik/fullstackdotnet/bin/Debug/net9.0/fullstackdotnet.pdb
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.AssemblyInfoInputs.cache
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.AssemblyInfo.cs
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.csproj.CoreCompileInputs.cache
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.sourcelink.json
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.dll
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/refint/fullstackdotnet.dll
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.pdb
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/fullstackdotnet.genruntimeconfig.cache
+/Users/malikabdulmalik/fullstackdotnet/obj/Debug/net9.0/ref/fullstackdotnet.dll
