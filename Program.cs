@@ -85,16 +85,24 @@ public class Program
 {
     public static void Main()
     {
-        Animal any = new Animal();
-        any.MakeSound();
-        any.Eat();
+        // Animal any = new Animal();
+        // any.MakeSound();
+        // any.Eat();
 
-        Dog dog = new Dog();
-        dog.MakeSound();
-        dog.Eat();
+        // Dog dog = new Dog();
+        // dog.MakeSound();
+        // dog.Eat();
 
-        Cat cat = new Cat();
-        cat.MakeSound();
-        cat.Eat();
+        // Cat cat = new Cat();
+        // cat.MakeSound();
+        // cat.Eat();
+        List<Animal> animals = new List<Animal>();
+        animals.Add(new Dog());
+        animals.Add(new Cat());
+        foreach (Animal animal in animals)
+        {
+            animal.MakeSound();
+            animal.Eat();
+        }
     }
 }
