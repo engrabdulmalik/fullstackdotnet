@@ -50,59 +50,101 @@
 //     }
 // }
 // }
-public interface IAnimal
+// public interface IAnimal
+// {
+//     void Eat();
+// }
+// public class Animal : IAnimal
+// {
+//     public virtual void MakeSound(){
+//         Console.WriteLine("Some sound");
+//     }
+//     public void Eat()
+//     {
+//         Console.WriteLine("Eating");
+//     }
+// }
+
+// public class Dog : Animal
+// {
+//     public override void MakeSound()
+//     {
+//         Console.WriteLine("Woof Woof ");
+//     }
+// }
+
+// public class Cat : Animal
+// {
+//     public override void MakeSound()
+//     {
+//         Console.WriteLine("Meow Meow ");
+//     }
+// }
+
+// public class Program 
+// {
+//     public static void Main()
+//     {
+//         // Animal any = new Animal();
+//         // any.MakeSound();
+//         // any.Eat();
+
+//         // Dog dog = new Dog();
+//         // dog.MakeSound();
+//         // dog.Eat();
+
+//         // Cat cat = new Cat();
+//         // cat.MakeSound();
+//         // cat.Eat();
+//         List<Animal> animals = new List<Animal>();
+//         animals.Add(new Dog());
+//         animals.Add(new Cat());
+//         foreach (Animal animal in animals)
+//         {
+//             animal.MakeSound();
+//             animal.Eat();
+//         }
+//     }
+// }
+public class Program
 {
-    void Eat();
-}
-public class Animal : IAnimal
-{
-    public virtual void MakeSound(){
-        Console.WriteLine("Some sound");
-    }
-    public void Eat()
+    public async Task DownloadDataAsync()
     {
-        Console.WriteLine("Eating");
-    }
-}
-
-public class Dog : Animal
-{
-    public override void MakeSound()
-    {
-        Console.WriteLine("Woof Woof ");
-    }
-}
-
-public class Cat : Animal
-{
-    public override void MakeSound()
-    {
-        Console.WriteLine("Meow Meow ");
-    }
-}
-
-public class Program 
-{
-    public static void Main()
-    {
-        // Animal any = new Animal();
-        // any.MakeSound();
-        // any.Eat();
-
-        // Dog dog = new Dog();
-        // dog.MakeSound();
-        // dog.Eat();
-
-        // Cat cat = new Cat();
-        // cat.MakeSound();
-        // cat.Eat();
-        List<Animal> animals = new List<Animal>();
-        animals.Add(new Dog());
-        animals.Add(new Cat());
-        foreach (Animal animal in animals)
+        try
         {
-            animal.MakeSound();
-            animal.Eat();
+            Console.WriteLine("Downloading data...");
+            await Task.Delay(2000);
+            Console.WriteLine("Data downloaded.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("An error occurred: " + ex.Message);
         }
     }
+
+    public async Task DownloadDataAsync2()
+    {
+        try
+        {
+            Console.WriteLine("Downloading data 2...");
+            await Task.Delay(2000);
+            Console.WriteLine("Data downloaded 2.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("An error occurred: " + ex.Message);
+        }
+    }
+
+    public static async Task Main(string[] args)
+    {
+        Program program = new Program();
+
+        Task task1 = program.DownloadDataAsync();
+        Task task2 = program.DownloadDataAsync2();
+        await Task.WhenAll(task1, task2);
+        
+        Console.WriteLine("All tasks completed!");
+    }
 }
+
