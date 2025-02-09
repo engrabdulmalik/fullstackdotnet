@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DvLIYdum+to=",
+  "dgSpecHash": "kzLG8A9b9hg=",
   "success": true,
   "projectFilePath": "/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/MyBlazerApp.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,8 @@
     "/Users/malikabdulmalik/.nuget/packages/microsoft.jsinterop.webassembly/9.0.0/microsoft.jsinterop.webassembly.9.0.0.nupkg.sha512",
     "/Users/malikabdulmalik/.nuget/packages/microsoft.net.illink.tasks/9.0.0/microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
     "/Users/malikabdulmalik/.nuget/packages/microsoft.net.sdk.webassembly.pack/9.0.0/microsoft.net.sdk.webassembly.pack.9.0.0.nupkg.sha512",
+    "/Users/malikabdulmalik/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/malikabdulmalik/.nuget/packages/system.net.http.json/9.0.0/system.net.http.json.9.0.0.nupkg.sha512",
     "/Users/malikabdulmalik/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/9.0.0/microsoft.netcore.app.runtime.mono.browser-wasm.9.0.0.nupkg.sha512"
   ],
   "logs": []
