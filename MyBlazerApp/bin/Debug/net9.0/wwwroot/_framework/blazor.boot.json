@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyBlazerApp",
   "resources": {
-    "hash": "sha256-VEcUT2lN12vMTa8wX4AAjO4rF7wTaxeCtqRQ3eF7fYw=",
+    "hash": "sha256-MA0SME/oYJvTDuR8MxTS9SWfz7FC5GwCPAYew2RaauU=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -25,6 +25,7 @@
       "Microsoft.Extensions.Primitives.3sx0y6ui4u.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.sk08br83jz.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.fkdz83fr0b.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
+      "Newtonsoft.Json.ryat7hvx56.wasm": "Newtonsoft.Json.wasm",
       "Microsoft.CSharp.mnvthyn9ga.wasm": "Microsoft.CSharp.wasm",
       "Microsoft.VisualBasic.Core.g11rmyyh65.wasm": "Microsoft.VisualBasic.Core.wasm",
       "Microsoft.VisualBasic.txibwr0y0j.wasm": "Microsoft.VisualBasic.wasm",
@@ -201,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MyBlazerApp.is6ss7z38f.wasm": "MyBlazerApp.wasm",
-      "MyBlazerApp.b2ycefycjb.pdb": "MyBlazerApp.pdb"
+      "MyBlazerApp.goocs7pozd.wasm": "MyBlazerApp.wasm",
+      "MyBlazerApp.yzkghbwxdm.pdb": "MyBlazerApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -245,6 +246,7 @@
       "Microsoft.Extensions.Primitives.3sx0y6ui4u.wasm": "sha256-A0WIty9B3GNUBtsykg0eb3kD47r0/Cpfk8q1Ei8ECrc=",
       "Microsoft.JSInterop.sk08br83jz.wasm": "sha256-FNS+xvA0GFiM2CVWHljv47AO+crkl0V7XiidkkMbVSw=",
       "Microsoft.JSInterop.WebAssembly.fkdz83fr0b.wasm": "sha256-kSwbIGuYmzrEilFXnLY8mKBXXFQtVXKAF/Qa323+Fnk=",
+      "Newtonsoft.Json.ryat7hvx56.wasm": "sha256-PaicHOw1U7HF05kEvZI0Rgg1nwdA8hrzbzdkw1qgUuU=",
       "Microsoft.CSharp.mnvthyn9ga.wasm": "sha256-fpFq3tiKl2KyIwwxqx00V0KgBM6xAe3+4MacTs9d0c0=",
       "Microsoft.VisualBasic.Core.g11rmyyh65.wasm": "sha256-BDwtMGszyqpVVjJQLJlpzwUZYXvG7ReKXIkB6OiAxVU=",
       "Microsoft.VisualBasic.txibwr0y0j.wasm": "sha256-X9/DgjYY/yytG8fIqL2MB7tBD3j/fo5VFEUVNS0k55Q=",
@@ -412,10 +414,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "MyBlazerApp.is6ss7z38f.wasm": "sha256-nualCimO7pamK21HvLgWXChHZhrO63EMGIqZz2bXpKg="
+      "MyBlazerApp.goocs7pozd.wasm": "sha256-8K8WPvvt1blKG0wBe94jTSqSB7W4Y984PCL8I/vHnyw="
     },
     "pdb": {
-      "MyBlazerApp.b2ycefycjb.pdb": "sha256-jT4G3S6uqn+3CVdrl488JYf6LGzZceJRDbijtCdM5sQ="
+      "MyBlazerApp.yzkghbwxdm.pdb": "sha256-Tsth58t+heVs2p792sd1WCLnTWMXg1K7+SorXjTUSY0="
     }
   },
   "cacheBootResources": true,
