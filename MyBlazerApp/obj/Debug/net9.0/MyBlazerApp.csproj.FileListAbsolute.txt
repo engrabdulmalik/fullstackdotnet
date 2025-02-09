@@ -37,8 +37,6 @@
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Win32.Primitives.tyae2554m5.wasm
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Win32.Registry.yqsrs1xmzk.wasm
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/mscorlib.o0184ey5ia.wasm
-/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.vg89msuqms.pdb
-/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.591eoqkzad.wasm
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/netstandard.hb3h2rr8mk.wasm
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.AppContext.rb3sudfxx6.wasm
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.Buffers.ijnujodfj9.wasm
@@ -214,7 +212,6 @@
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.8hunc8w9tt.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.4ewk3ipqll.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.Memory.b2htf2lv6y.wasm.gz
-/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.591eoqkzad.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.Data.DataSetExtensions.cw7lxxyoji.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.5cygu8f0zf.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.JSInterop.sk08br83jz.wasm.gz
@@ -294,7 +291,6 @@
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.Net.HttpListener.ufw2sisn5i.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.Security.Principal.Windows.x9ozykue0h.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.fmav5ohfo2.wasm.gz
-/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.vg89msuqms.pdb.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/System.Linq.Parallel.vgj4j8dch1.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.pvxa4wu5tg.wasm.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.cx40wf47rk.wasm.gz
@@ -1065,9 +1061,6 @@
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/vx42dtktcy-tjcz0u77k5.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/r3lx8h5o45-tptq2av103.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/4vt7ucklcj-lfu7j35m59.gz
-/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/1ug316dta7-591eoqkzad.gz
-/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/fi2xphs2c3-vg89msuqms.gz
-/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/tlvk6cgq1a-qujx4ha4ku.gz
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/staticwebassets.build.json
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/staticwebassets.development.json
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -1082,3 +1075,10 @@
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/refint/MyBlazerApp.dll
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/MyBlazerApp.pdb
 /Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/ref/MyBlazerApp.dll
+/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.b2ycefycjb.pdb
+/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.is6ss7z38f.wasm
+/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.is6ss7z38f.wasm.gz
+/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/bin/Debug/net9.0/wwwroot/_framework/MyBlazerApp.b2ycefycjb.pdb.gz
+/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/1ug316dta7-is6ss7z38f.gz
+/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/fi2xphs2c3-b2ycefycjb.gz
+/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/obj/Debug/net9.0/compressed/tlvk6cgq1a-9kyrh8uo7c.gz
