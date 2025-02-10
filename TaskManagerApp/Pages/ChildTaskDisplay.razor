@@ -1,0 +1,22 @@
+<div>
+    <h3>@TaskName</h3>
+    <button @onclick="markAsComplete">Mark as Complete</button>
+</div>
+
+@code {
+    [Parameter]
+    public string? TaskName { get; set; }
+
+    [Parameter]
+    public EventCallback<string> OnComplete { get; set; }
+
+    private async Task markAsComplete()
+    {
+        await OnComplete.InvokeAsync(TaskName);
+    }
+
+    protected override void OnParametersSet()
+    {
+      Console.WriteLine($"Child Task Display Initialized with Task: {TaskName}");
+    }
+}
