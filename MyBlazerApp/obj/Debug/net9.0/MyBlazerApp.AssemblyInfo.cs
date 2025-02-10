@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyBlazerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b032ece25ce8a994a87746ee445565c5101d4923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1785cc0e490c73bd22efac62f77665802a11d5ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyBlazerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyBlazerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
