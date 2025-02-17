@@ -1,0 +1,38 @@
+@inject DataService DataService
+<div style="border: 1px solid black; color: @theme;">
+    <button @onclick="ToggleRenderCondition">Toggle</button>
+    @if(ShouldRenderCondition)
+    {
+<ul>
+    @foreach (var product in products)
+    {
+        <li>@product</li>
+    }
+    </ul>
+    }
+    </div>
+
+@code {
+    [CascadingParameter]
+
+    private string? theme { get; set; }
+    private List<string> products = new List<string>();
+    private bool ShouldRenderCondition = true;
+
+    protected override bool ShouldRender()
+    {
+        return ShouldRenderCondition;
+    }
+
+    private void ToggleRenderCondition()
+    {
+        ShouldRenderCondition = !ShouldRenderCondition;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await DataService.GetProductsAsync();
+    }
+
+
+}

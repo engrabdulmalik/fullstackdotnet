@@ -28,12 +28,32 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/ChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hpbGRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/ParentComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFyZW50Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/ReuseableCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmV1c2VhYmxlQ2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/Pages/Weather.razor]

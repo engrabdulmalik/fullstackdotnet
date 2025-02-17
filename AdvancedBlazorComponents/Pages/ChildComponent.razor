@@ -1,0 +1,15 @@
+<div>
+    <p>
+        This is a child component:@childstate
+    </p>
+</div>
+
+@code {
+    
+    public string childstate ="Intial State";
+
+    public void Update()
+    {
+        childstate = "Updated State";
+    }
+}

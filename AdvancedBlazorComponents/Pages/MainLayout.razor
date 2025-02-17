@@ -1,0 +1,21 @@
+@inherits LayoutComponentBase
+
+<CascadingValue Value="theme">
+    @Body
+</CascadingValue>
+
+<select @onchange="changeTheme">
+    <option value="default">Default</option>
+    <option value="dark">Dark</option>
+    <option value="light">Light</option>
+    <option value="custom">Custom</option>
+</select>
+
+@code {
+    private string theme = "default";
+
+    private void changeTheme(ChangeEventArgs e)
+    {
+        theme = e.Value?.ToString() ?? "default";
+    }
+}
