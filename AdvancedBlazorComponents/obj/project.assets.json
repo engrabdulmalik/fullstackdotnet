@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/AdvancedBlazorComponents/AdvancedBlazorComponents.csproj",
+      "projectUniqueName": "/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/AdvancedBlazorComponents.csproj",
       "projectName": "AdvancedBlazorComponents",
-      "projectPath": "/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/AdvancedBlazorComponents/AdvancedBlazorComponents.csproj",
+      "projectPath": "/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/AdvancedBlazorComponents.csproj",
       "packagesPath": "/Users/malikabdulmalik/.nuget/packages/",
-      "outputPath": "/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/AdvancedBlazorComponents/obj/",
+      "outputPath": "/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/malikabdulmalik/.nuget/NuGet/NuGet.Config"

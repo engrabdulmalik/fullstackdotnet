@@ -1124,7 +1124,7 @@ const KEY_TO_DIRECTION = {
   [ARROW_RIGHT_KEY$1]: DIRECTION_LEFT
 };
 const Default$b = {
-  interval: 5021,
+  interval: 5202,
   keyboard: true,
   pause: 'hover',
   ride: false,
@@ -4294,7 +4294,7 @@ const DefaultType = {
 const Default = {
   animation: true,
   autohide: true,
-  delay: 5021
+  delay: 5202
 };
 
 /**

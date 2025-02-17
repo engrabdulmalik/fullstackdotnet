@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LmSt0ReaZuc=",
+  "dgSpecHash": "cmfiD8+weXs=",
   "success": true,
-  "projectFilePath": "/Users/malikabdulmalik/fullstackdotnet/MyBlazerApp/AdvancedBlazorComponents/AdvancedBlazorComponents.csproj",
+  "projectFilePath": "/Users/malikabdulmalik/fullstackdotnet/AdvancedBlazorComponents/AdvancedBlazorComponents.csproj",
   "expectedPackageFiles": [
     "/Users/malikabdulmalik/.nuget/packages/microsoft.aspnetcore.authorization/9.0.0/microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "/Users/malikabdulmalik/.nuget/packages/microsoft.aspnetcore.components/9.0.0/microsoft.aspnetcore.components.9.0.0.nupkg.sha512",
