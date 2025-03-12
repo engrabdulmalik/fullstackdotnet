@@ -1,0 +1,32 @@
+@page "/recipe/{RecipeId:int}"
+
+@code {
+
+    [Parameter]
+    public int RecipeId { get; set; }
+
+    private Recipe? selectedRecipe;
+    protected override void OnParametersSet(){
+        selectedRecipe = recipes.FirstOrDefault(r => r.Id == RecipeId);
+       
+
+    }
+private List<Recipe> recipes = new ()
+            {
+            new Recipe { Id = 1, Name = "Recipe 1", Description = "Description 1" },
+            new Recipe { Id = 2, Name = "Recipe 2", Description = "Description 2" },
+            new Recipe { Id = 3, Name = "Recipe 3", Description = "Description 3" },
+            new Recipe { Id = 4, Name = "Recipe 4", Description = "Description 4" },
+            new Recipe { Id = 5, Name = "Recipe 5", Description = "Description 5" }
+        };
+}
+   @if(selectedRecipe != null)
+    {
+        <h1>@selectedRecipe.Name</h1>
+        <p>@selectedRecipe.Description</p>
+    }
+    else
+    {
+        <p>Recipe not found</p>
+    }
+}

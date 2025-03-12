@@ -1,0 +1,24 @@
+@code
+{
+    private List<Recipe> recipes = new ()
+            {
+            new Recipe { Id = 1, Name = "Recipe 1", Description = "Description 1" },
+            new Recipe { Id = 2, Name = "Recipe 2", Description = "Description 2" },
+            new Recipe { Id = 3, Name = "Recipe 3", Description = "Description 3" },
+            new Recipe { Id = 4, Name = "Recipe 4", Description = "Description 4" },
+            new Recipe { Id = 5, Name = "Recipe 5", Description = "Description 5" }
+        };
+}
+
+@foreach (var recipe in recipes)
+{
+<NavLink href="
+@($"editrecipe/{recipe.Id}" )
+" Match="NavLinkMatch.Prefix">
+    View Details
+</NavLink>
+<p>@recipe.Name</p>
+<p>@recipe.Description</p>
+<hr />
+}
+<!-- The NavLink component is used to navigate to the EditRecipe page. The href attribute is set to the path of the EditRecipe page, with the recipe ID appended to the end. The Match attribute is set to NavLinkMatch.Prefix to ensure that the link is active when the URL matches the specified prefix. -->
