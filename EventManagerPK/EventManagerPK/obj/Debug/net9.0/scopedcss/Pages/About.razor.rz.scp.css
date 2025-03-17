@@ -1,0 +1,19 @@
+.about-hero[b-3e04a84cne] {
+    background-color: #f8f9fa;
+    padding: 3rem 0;
+    margin-bottom: 2rem;
+}
+
+.card[b-3e04a84cne] {
+    border-radius: 1rem;
+    border: none;
+}
+
+hr[b-3e04a84cne] {
+    background-color: #dee2e6;
+    opacity: 0.7;
+}
+
+.text-primary[b-3e04a84cne] {
+    color: #0d6efd;
+}

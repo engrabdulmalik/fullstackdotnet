@@ -1,0 +1,18 @@
+.event-card[b-ycxg795hdm] {
+    transition: transform 0.2s;
+    max-width: 350px;
+}
+
+.event-card:hover[b-ycxg795hdm] {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.placeholder-img[b-ycxg795hdm] {
+    height: 180px;
+}
+
+.card-img-top img[b-ycxg795hdm] {
+    height: 180px;
+    object-fit: cover;
+}
